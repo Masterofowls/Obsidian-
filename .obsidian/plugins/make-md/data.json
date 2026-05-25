@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "//Bash",
     "//PowerShell ",
-    "//Math "
+    "//Math ",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
