@@ -11,5 +11,7 @@
   "fix-math",
   "quick-latex",
   "oz-image-plugin",
-  "obsidian-link-embed"
+  "obsidian-link-embed",
+  "make-md",
+  "code-emitter"
 ]

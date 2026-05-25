@@ -10,18 +10,46 @@
           {
             "id": "1ba17bd7ab5f0a1a",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Obsidian"
+            }
+          },
+          {
+            "id": "49c166bac03040b2",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Typescript /Typescript.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Typescript"
+            }
+          },
+          {
+            "id": "440f0ae23d111f25",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "JavaScript "
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +126,16 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "b8fe942f21518f0f",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
       }
     ],
     "currentTab": 0
@@ -140,10 +178,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
@@ -154,9 +190,43 @@
       "fix-math:Current file": false
     }
   },
-  "active": "1ba17bd7ab5f0a1a",
+  "active": "440f0ae23d111f25",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Common"
+    "JavaScript /JavaScript.md",
+    "Words.md",
+    "Python /Logging.md",
+    "Python /Symbols.md",
+    "Python /Operators.md",
+    "Python /Functional programming.md",
+    "Python /Debugging.md",
+    "Python /Data types.md",
+    "Python /Exceptions.md",
+    "Python /Constants.md",
+    "Python /Command line.md",
+    "Python /OOP.md",
+    "Python /Async.md",
+    "Python /Inheritance.md",
+    "Python /Import_Export.md",
+    "Python /Libriries.md",
+    "Python /Math.md",
+    "Python /Dictionaries.md",
+    "Python /Strings.md",
+    "Python /Loops.md",
+    "Python /Venv.md",
+    "Python /Syntax.md",
+    "Python /Comments.md",
+    "Python /Python.md",
+    "Vault.md",
+    "Typescript /Typescript.md",
+    "Tags",
+    "Math ",
+    "SQL",
+    "HTML ",
+    "CSS",
+    "PowerShell ",
+    "Bash",
+    "Docker ",
+    "Python ",
+    "Django "
   ]
 }
