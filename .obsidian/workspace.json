@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a0e20d1b6b0c17f1",
+        "id": "790b1649721c1125",
         "type": "tabs",
         "children": [
           {
-            "id": "678852a64242ffb9",
+            "id": "844aaf80cef67792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Forms.md",
+                "file": "Something/1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Forms"
+              "title": "1"
             }
           }
         ]
@@ -189,17 +189,20 @@
       "fix-math:Current file": false
     }
   },
-  "active": "678852a64242ffb9",
+  "active": "844aaf80cef67792",
   "lastOpenFiles": [
+    "Untitled.base",
+    "React/Components/Badge.md",
+    "HTML/SEO/404.md",
+    "Something/1.md",
+    "Django/Forms.md",
     "Typescript/Import_Export.md",
     "Typescript/Index.md",
     "Typescript/Interface.md",
     "Typescript/Typescript.md",
-    "Django/Forms.md",
     "Django/Views.md",
     "Django/Models.md",
     "Django/Models_All.md",
-    "Something/1.md",
     "React/Components/Feed.md",
     "React/Components/Chat_Room.md",
     "React/Components/Video_Call.md",
@@ -214,9 +217,6 @@
     "React/Components/Download.md",
     "React/Components/Upload.md",
     "React/Components/Cookie.md",
-    "React/Components/Commentary.md",
-    "React/Components/Carousel.md",
-    "React/Components/Player.md",
     "Python/Examples",
     "Tags",
     "Math/Differential",
@@ -225,7 +225,6 @@
     "Math/Statistics",
     "Math/Discrete_Math",
     "Git_Github_Gitlab/Github_Actions",
-    "Git_Github_Gitlab",
-    "Blockchain_Web3"
+    "Git_Github_Gitlab"
   ]
 }
