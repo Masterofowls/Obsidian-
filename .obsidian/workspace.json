@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b86cac2e6e18af5e",
+        "id": "a0e20d1b6b0c17f1",
         "type": "tabs",
         "children": [
           {
-            "id": "7db84af89df1fee9",
+            "id": "678852a64242ffb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL.md",
+                "file": "Django/Forms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "Forms"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "dc93a8e8f07d379f",
+            "id": "0622a00b637a515d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +85,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,48 +185,47 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "fix-math:Current file": false
     }
   },
-  "active": "e59476d50990b262",
+  "active": "678852a64242ffb9",
   "lastOpenFiles": [
-    "Math/Series.md",
-    "Math/Coordinates.md",
-    "Math/Multivariable.md",
-    "Math/Collecting_Data.md",
-    "Math/Probability 1.md",
-    "Math/Integrals.md",
-    "Math/Limits.md",
-    "Math/Infinity.md",
-    "Math/Exponents_Radicals.md",
-    "Math/Matrix.md",
-    "Math/Functions.md",
-    "Math/Multi-step_Equasions.md",
-    "Math/Probability.md",
-    "Math/Vectors.md",
-    "Math/Logorythm.md",
-    "Math/Square_Root.md",
-    "Math/Fibonachi.md",
-    "Math/Factorial.md",
-    "Untitled.md",
+    "Typescript/Import_Export.md",
+    "Typescript/Index.md",
+    "Typescript/Interface.md",
+    "Typescript/Typescript.md",
+    "Django/Forms.md",
+    "Django/Views.md",
+    "Django/Models.md",
+    "Django/Models_All.md",
+    "Something/1.md",
+    "React/Components/Feed.md",
+    "React/Components/Chat_Room.md",
+    "React/Components/Video_Call.md",
+    "React/Components/Note.md",
+    "React/Components/Documentation.md",
+    "React/Components/Pricing.md",
+    "React/Components/Document.md",
+    "React/Components/Preview.md",
+    "React/Components/Snippet.md",
+    "React/Components/Parallax.md",
+    "React/Components/Quiz.md",
+    "React/Components/Download.md",
+    "React/Components/Upload.md",
+    "React/Components/Cookie.md",
+    "React/Components/Commentary.md",
+    "React/Components/Carousel.md",
+    "React/Components/Player.md",
+    "Python/Examples",
+    "Tags",
     "Math/Differential",
     "Math/Linear_Algebra",
     "Math/Graph_Model",
     "Math/Statistics",
     "Math/Discrete_Math",
-    "Git_Github_Gitlab/Git_Worktrees.md",
-    "Git_Github_Gitlab/Github_Pages.md",
-    "Git_Github_Gitlab/Github_Actions/Github_Actions.md",
     "Git_Github_Gitlab/Github_Actions",
-    "Git_Github_Gitlab/Basic_commands.md",
-    "Git_Github_Gitlab/Git-LFS.md",
-    "Git_Github_Gitlab/Untitled.md",
-    "Math/Math.md",
     "Git_Github_Gitlab",
-    "Blockchain_Web3",
-    "Cryptography",
-    "Data Science"
+    "Blockchain_Web3"
   ]
 }

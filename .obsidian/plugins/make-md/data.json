@@ -40,7 +40,9 @@
   "expandedSpaces": [
     "//PowerShell ",
     "//Math ",
-    "/"
+    "/",
+    "//Django",
+    "//Typescript"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
