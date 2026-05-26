@@ -22,34 +22,22 @@
             }
           },
           {
-            "id": "49c166bac03040b2",
+            "id": "a163b674a3dc1284",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript /Typescript.md",
+                "file": "Something/1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Typescript"
-            }
-          },
-          {
-            "id": "440f0ae23d111f25",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "JavaScript "
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
         }
       },
       {
-        "id": "b8fe942f21518f0f",
+        "id": "6d8a8c5c133638be",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -185,48 +173,47 @@
       "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "fix-math:Current file": false
     }
   },
-  "active": "440f0ae23d111f25",
+  "active": "a163b674a3dc1284",
   "lastOpenFiles": [
-    "JavaScript /JavaScript.md",
-    "Words.md",
-    "Python /Logging.md",
-    "Python /Symbols.md",
-    "Python /Operators.md",
-    "Python /Functional programming.md",
-    "Python /Debugging.md",
-    "Python /Data types.md",
-    "Python /Exceptions.md",
-    "Python /Constants.md",
-    "Python /Command line.md",
-    "Python /OOP.md",
-    "Python /Async.md",
-    "Python /Inheritance.md",
-    "Python /Import_Export.md",
-    "Python /Libriries.md",
-    "Python /Math.md",
-    "Python /Dictionaries.md",
-    "Python /Strings.md",
-    "Python /Loops.md",
-    "Python /Venv.md",
-    "Python /Syntax.md",
-    "Python /Comments.md",
-    "Python /Python.md",
-    "Vault.md",
-    "Typescript /Typescript.md",
+    "Arduino_ESP32/ESP32",
+    "Arduino_ESP32/Arduino",
+    "Arduino_ESP32",
+    "Something/1.md",
+    "Something",
+    "Django/Configuration.md",
+    "Django/Static.md",
+    "Django/Django_Include.md",
+    "Django/List_Display.md",
+    "Django/Settings.md",
+    "Django/Database.md",
+    "Django/Commands.md",
+    "Django/Serialization.md",
+    "Django/Authentication.md",
+    "Django/Migrations.md",
+    "Django/Venv.md",
+    "Django/Folder_Structure.md",
+    "Django/Deployment.md",
+    "Django/Import_Export.md",
+    "Django/Forms.md",
+    "Django/Apps.md",
+    "Django/Urls.md",
+    "Django/Admin.md",
+    "Django/Templates.md",
+    "Django/Views.md",
+    "Django/Models.md",
     "Tags",
-    "Math ",
-    "SQL",
-    "HTML ",
-    "CSS",
-    "PowerShell ",
-    "Bash",
-    "Docker ",
-    "Python ",
-    "Django "
+    "HTML/HTML.md",
+    "Django/Untitled.md",
+    "Typescript/Typescript.md",
+    "Typescript",
+    "React",
+    "Python/Pandas",
+    "Python/NumPy",
+    "Python",
+    "PowerShell"
   ]
 }
